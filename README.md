@@ -1,9 +1,4 @@
-# htdp_2e_solutions
------------------------------------------------
-
-
-[]: https://img.shields.io/static/v1?label=<htdp>&message=<solutions>&color=<red>
-
+# htdp_2e_solutions https://img.shields.io/badge/htdp-solutions-blue 
 
 
 ---------------------------------------------------------

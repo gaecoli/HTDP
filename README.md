@@ -1,4 +1,4 @@
-# htdp_2e_solutions https://img.shields.io/badge/htdp-solutions-blue 
+# htdp_2e_solutions<img src="https://img.shields.io/badge/htdp-solutions-blue"> 
 
 
 ---------------------------------------------------------

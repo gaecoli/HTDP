@@ -1,6 +1,10 @@
 # htdp_2e_solutions
 -----------------------------------------------
- https://img.shields.io/badge/<HTDP>-<solutions>-<red> 
+
+
+[]: https://img.shields.io/static/v1?label=<htdp>&message=<solutions>&color=<red>
+
+
 
 ---------------------------------------------------------
 

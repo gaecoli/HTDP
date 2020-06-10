@@ -32,5 +32,6 @@
 
 #### Links
 
-[htdp_2e]: https://htdp.org/2019-02-24/	"htdp"
+[HTDP](https://htdp.org/2019-02-24/	"htdp")
+
 

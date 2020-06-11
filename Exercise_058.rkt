@@ -32,7 +32,15 @@
     [(<= -3 x -1) (if (= x -1) height (+ x 1))]
     [(>= x 0)     (- x y_delta)]))
 
-(define (main1 s)
+(define (render x)
+  (+ x y_delta))
+
+(define (stop x)
+  (>= x (- height 10)))
+
+(define (main2 s)
   (big-bang s
     [on-key  launch]
-    [to-draw show]))
+    [to-draw show]
+    [on-tick render]
+    [stop-when stop]))
